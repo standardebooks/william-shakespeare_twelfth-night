@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/twelfth-night</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-06-08T18:43:42Z</dc:date>
+		<meta property="dcterms:modified">2021-06-08T18:43:42Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,9 +50,10 @@
 		<meta property="term" refines="#subject-6">sh2008115399</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">A romantic comedy where a woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.</dc:description>
+		<dc:description id="description">A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Off the Illyrian coast, a storm has caused a terrible shipwreck. Two siblings Viola and her brother Sebastion become separated, each believing the other has drowned. Viola washes up to shore and meets a friendly sea captain offering to help her find work. There is news that Duke Orsino is planning to propose to Countess Olivia once the mourning period for her brother is over. Viola decides to disguise herself as a man, taking on the name of Cesario, and goes to work in the duke’s household. &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare’s&lt;/a&gt; ability to weave love, confusion, mistaken identities, and joyful discovery shines through in this timeless and entertaining play.&lt;/p&gt;
+			&lt;p&gt;A storm has caused a terrible shipwreck off the Illyrian coast. Two siblings, Viola and her brother Sebastian, become separated, each believing the other has drowned. Viola washes ashore and meets a friendly sea captain who offers to help her find work for Duke Orsino—but first she must disguise herself as a man named of Cesario.&lt;/p&gt;
+			&lt;p&gt;There is news that Duke Orsino is planning to propose to Countess Olivia. As Viola, disguised as Cesario, meets them both, a love triangle quickly forms. &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; ability to weave love, confusion, mistaken identities, and joyful discovery shines through in this timeless romantic comedy.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -60,8 +61,8 @@
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<dc:source>https://www.opensourceshakespeare.org/views/plays/playmenu.php?WorkID=12night</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition. Emendations to the Twelfth Night are provided by Open Source Shakespeare.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">21606</meta>
+		<meta property="se:reading-ease.flesch">82.44</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Twelfth_Night</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_twelfth-night</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
@@ -87,6 +88,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
