@@ -50,6 +50,8 @@
 		<meta property="term" refines="#subject-6">sh2008115399</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A storm has caused a terrible shipwreck off the Illyrian coast. Two siblings, Viola and her brother Sebastian, become separated, each believing the other has drowned. Viola washes ashore and meets a friendly sea captain who offers to help her find work for Duke Orsino—but first she must disguise herself as a man named Cesario.&lt;/p&gt;
