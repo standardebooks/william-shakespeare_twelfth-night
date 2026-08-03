@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-shakespeare/twelfth-night</dc:identifier>
 		<dc:date>2021-06-08T18:43:42Z</dc:date>
@@ -52,12 +52,12 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;A storm has caused a terrible shipwreck off the Illyrian coast. Two siblings, Viola and her brother Sebastian, become separated, each believing the other has drowned. Viola washes ashore and meets a friendly sea captain who offers to help her find work for Duke Orsino—but first she must disguise herself as a man named Cesario.&lt;/p&gt;
 			&lt;p&gt;There is news that Duke Orsino is planning to propose to Countess Olivia. As Viola, disguised as Cesario, meets them both, a love triangle quickly forms. &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; ability to weave love, confusion, mistaken identities, and joyful discovery shines through in this timeless romantic comedy.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/twelfth_night/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
