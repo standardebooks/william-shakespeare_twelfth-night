@@ -52,7 +52,7 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.</dc:abstract>
+		<meta property="schema:abstract">A woman disguises herself as a man and becomes entangled in the courtship of two aristocrats.</meta>
 		<dc:description>
 			&lt;p&gt;A storm has caused a terrible shipwreck off the Illyrian coast. Two siblings, Viola and her brother Sebastian, become separated, each believing the other has drowned. Viola washes ashore and meets a friendly sea captain who offers to help her find work for Duke Orsino—but first she must disguise herself as a man named Cesario.&lt;/p&gt;
 			&lt;p&gt;There is news that Duke Orsino is planning to propose to Countess Olivia. As Viola, disguised as Cesario, meets them both, a love triangle quickly forms. &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; ability to weave love, confusion, mistaken identities, and joyful discovery shines through in this timeless romantic comedy.&lt;/p&gt;
